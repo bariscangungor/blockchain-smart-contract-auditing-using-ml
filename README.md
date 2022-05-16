@@ -1,2 +1,3 @@
 # blockchain-smart-contract-auditing-using-ml
-Basic Smart Contract Auditing Experiment Using Machine Learning
+
+- Experimental - Smart Contract Auditing / Vulnerability Detection Using Machine Learning
